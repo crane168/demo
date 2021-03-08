@@ -14,5 +14,8 @@
   "jingtong":{
      "name":"jingtong",
     "address":"shuangjing jiulong shan"
+  },
+  "getImage":{
+    "imageUrl":"https://img1.baidu.com/it/u=3456348350,361311800&fm=26&fmt=auto&gp=0.jpg"
   }
 }
